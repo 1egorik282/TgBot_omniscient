@@ -1,1 +1,0 @@
-TgBot_omniscient
